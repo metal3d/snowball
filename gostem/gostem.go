@@ -7,11 +7,12 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
-	"github.com/kljensen/snowball"
 	"io"
 	"log"
 	"os"
 	"strings"
+
+	"github.com/metal3d/snowball"
 )
 
 func main() {

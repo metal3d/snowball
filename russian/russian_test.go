@@ -1,8 +1,9 @@
 package russian
 
 import (
-	"github.com/kljensen/snowball/romance"
 	"testing"
+
+	"github.com/metal3d/snowball/romance"
 )
 
 // Test isLowerVowel for things we know should be true

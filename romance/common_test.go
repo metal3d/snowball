@@ -6,8 +6,9 @@ package romance
 
 import (
 	"fmt"
-	"github.com/kljensen/snowball/snowballword"
 	"testing"
+
+	"github.com/metal3d/snowball/snowballword"
 )
 
 type stepFunc func(*snowballword.SnowballWord) bool

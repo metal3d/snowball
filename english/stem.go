@@ -1,8 +1,9 @@
 package english
 
 import (
-	"github.com/kljensen/snowball/snowballword"
 	"strings"
+
+	"github.com/metal3d/snowball/snowballword"
 )
 
 // Stem an English word.  This is the only exported

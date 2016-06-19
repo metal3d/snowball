@@ -1,9 +1,10 @@
 package spanish
 
 import (
-	"github.com/kljensen/snowball/snowballword"
 	"log"
 	"strings"
+
+	"github.com/metal3d/snowball/snowballword"
 )
 
 func printDebug(debug bool, w *snowballword.SnowballWord) {

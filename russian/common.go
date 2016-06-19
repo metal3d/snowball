@@ -1,8 +1,8 @@
 package russian
 
 import (
-	"github.com/kljensen/snowball/romance"
-	"github.com/kljensen/snowball/snowballword"
+	"github.com/metal3d/snowball/romance"
+	"github.com/metal3d/snowball/snowballword"
 )
 
 // Checks if a rune is a lowercase Russian vowel.

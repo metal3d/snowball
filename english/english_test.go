@@ -7,9 +7,10 @@
 package english
 
 import (
-	"github.com/kljensen/snowball/romance"
-	"github.com/kljensen/snowball/snowballword"
 	"testing"
+
+	"github.com/metal3d/snowball/romance"
+	"github.com/metal3d/snowball/snowballword"
 )
 
 // Test stopWords for things we know should be true

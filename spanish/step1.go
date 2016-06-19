@@ -1,8 +1,9 @@
 package spanish
 
 import (
-	"github.com/kljensen/snowball/snowballword"
 	"log"
+
+	"github.com/metal3d/snowball/snowballword"
 )
 
 // Step 1 is the removal of standard suffixes
